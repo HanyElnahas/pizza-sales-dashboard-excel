@@ -2,7 +2,7 @@
 
 An interactive sales dashboard built entirely in **Microsoft Excel** using **PivotTables, PivotCharts and Slicers**. It turns raw pizza order data into a one-page view of sales performance, customer demand and product ranking.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
