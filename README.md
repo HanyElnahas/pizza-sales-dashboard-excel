@@ -91,6 +91,7 @@ pizza-sales-dashboard-excel/
 The dataset comes from a training course project and covers pizza orders for the year 2015.
 Data Analysis Diploma - Smart Investment Solution - SIS - Patch 26 
 https://www.linkedin.com/company/smart-investment-solution-sis/posts/?feedView=all
+Instructor:https://www.linkedin.com/in/mohamed-mahmoud-sobhy-668ba937a/
 
 ---
 
