@@ -32,12 +32,36 @@ This project was completed as part of a data analysis training course. The goal 
 
 ## 🔍 Key Insights
 
-- **Category:** Veggie leads with **28%** of sales, followed by Classic (27%), Supreme (24%) and Chicken (21%).
-- **Size:** Large (L) generates **40%** of sales; XL contributes only **2%**.
-- **Monthly trend:** Orders peak in **June (54)** and are lowest in **February and March (32)**.
-- **Weekly pattern:** **Friday (94)** is the busiest day, followed by Saturday (78) and Thursday (75); Wednesday is the slowest (50).
-- **Top sellers:** The Classic Deluxe, Four Cheese and Thai Chicken pizzas lead in revenue.
-- **Lowest sellers:** The Brie Carre, Spinach Supreme and Chicken Alfredo pizzas bring in the least revenue.
+**1. Every customer ordered once.**
+There are **499 customers and 499 orders**, so no customer appears to have returned. Average order value is about **$16.91** ($8,436 ÷ 499), with roughly 1.02 pizzas per order.
+
+**2. Demand peaks from Thursday to Saturday.**
+**Friday (94 pizzas)** is the busiest day, followed by Saturday (78) and Thursday (75). Together these three days make up **48%** of all units sold. Wednesday is the slowest day (50).
+
+**3. Sales are seasonal.**
+Monthly quantity peaks in **June (54)** and stays high from May to September (48 to 54 per month). It is lowest in **February and March (32)**, and November is also low (35).
+
+**4. Veggie and Classic lead by category.**
+Veggie contributes **28.0%** of sales and Classic **27.0%**, followed by Supreme (24.3%) and Chicken (20.7%).
+
+**5. A few pizzas carry the menu.**
+The top 5 pizzas (Classic Deluxe, Four Cheese, Thai Chicken, Greek, Barbecue Chicken) generate about **25%** of sales ($2,106). The bottom 5 (Brie Carre, Spinach Supreme, Chicken Alfredo, Pepperoni Mushroom Peppers, Calabrese) bring in only about **6%** ($499).
+
+---
+
+## 💡 Recommendations for the Client
+
+| # | Recommendation | Evidence | Expected impact |
+|---|---|---|---|
+| 1 | **Build a repeat-customer program** (loyalty card, discount on the second order, follow-up offers) | 499 customers placed 499 orders, so there is no repeat business | Even a small share of repeat buyers adds revenue without new acquisition cost |
+| 2 | **Run midweek promotions**, especially on Wednesday | Wednesday sells 50 pizzas versus 94 on Friday | Smooths demand and uses idle kitchen capacity |
+| 3 | **Staff and stock for Thursday to Saturday** | 48% of units sell on three days | Prevents stockouts and slow service at peak times |
+| 4 | **Plan for seasonality** and launch campaigns in the slow months (January to April, November) | 32 to 35 units per month versus 54 at the June peak | Lifts the weak months and balances ingredient purchasing |
+| 5 | **Feature the best sellers** and keep them always in stock | Top 5 pizzas bring about 25% of sales | Protects the core of the menu |
+| 6 | **Review the bottom 5 pizzas** before keeping them: test a promotion, or replace the weakest (for example Brie Carre) | Bottom 5 bring only about 6% of sales | Simplifies the menu and reduces ingredient waste |
+| 7 | **Test new Chicken recipes or offers** | Chicken is the weakest category (20.7%) | Brings the lowest category closer to the others |
+| 8 | **Raise order value with combos and add-ons** (drinks, sides, family bundles) | Orders contain about one pizza each | Increases average order value above $16.91 |
+
 
 ---
 
