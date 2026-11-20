@@ -50,6 +50,11 @@ This project was completed as part of a data analysis training course. The goal 
 5. **Weekly Order Distribution** — column chart
 6. **Top 5 Best Selling** and **Bottom 5 Least Selling** pizzas — bar charts
 7. **Filters (Slicers & Timeline)** — pizza category, pizza size, order date
+8. ## 🧮 PivotTables Behind the Dashboard
+
+The charts and KPIs are built from these PivotTables:
+
+![Pivot Tables](pivot_tables.png)
 
 ---
 
